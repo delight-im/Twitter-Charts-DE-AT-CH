@@ -43,7 +43,7 @@ This page does also include historical records per user for the time between Apr
 ## License
 
 ```
-Copyright (C) 2014 www.delight.im <info@delight.im>
+Copyright (c) delight.im <info@delight.im>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
